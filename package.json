@@ -1,0 +1,19 @@
+{
+  "name": "node_bot_app",
+  "version": "1.0.0",
+  "description": "a simple node bot app",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "~/repos/node_bot_app"
+  },
+  "keywords": [
+    "node",
+    "bot"
+  ],
+  "author": "sanjeev kumar gadamsetti",
+  "license": "MIT"
+}
